@@ -1,16 +1,37 @@
-### Hi there 👋
-
-<!--
-**MTM8/MTM8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```
+´                                                                                    ´           ´          ´        
+             ´   ´                                                                               Always has been     
+                                            ´´                                                  ´              ´     
+    -                                       ´´                                   ´   ´      :shmNNNmmmdy/           ´
+                                     ´                                                  ´-smNNNNNNNmmmmmmd/          
+                              ´                        ´                           ´   -///+oymNNNNmmmmmmdd/         
+               ´ ´            ´    ´                                     ´´   ´               -mNmmmdmmmdddy       ´ 
+  ´    ´           ´  ´                                                           ´           ´dyyhhoymmddho         
+                                                     ´´ ´                       ´           .+yhmmmmmmmmmdh/    ´    
+           ´              ´                                   ´               ´           :syhmdshmmmmmmmdh-         
+        ´                                                                               /sohmd/+hmmdyso++++:´        
+                         ´                                               ´  ´         :s+ymmmdhyoosydhhs+/-:´-       
+                                       ´             ´            ´        ´          --hmmhoyyymmmmmmmmmmmddsssoo/.´
+                                       Wait, It's all ASCII?    ´   ´ ´     ´      ´   ´ss/+ymmmmNmmmmNmmmmdhs...:smy
+       ´                                ´     ´   ´                        ´            .-/dmNmNmmmmmmmmmmmddm/ ´:ymd
+           ´               ´                   :shmmdy+´  ´     ´      ´.-´     .´       /hydmmmysysyhhyymmhyyhomNNNm
+                     ´´                    ´  odNNNmmdds         :+syhhmNd+´           .ydhydhmmo+++syyyymdy-yodmNNNN
+                    ´                           ymmdmdho´     ´  +oo/+ssosmms.--.--/::/dhmmmmhdmhhmNmmmmmmmmsh-ohNNNN
+            ´                                 ´:ymdhddy:             ´oo/shmmmhmmmmmmmmydmmmmdmNmmmmmmmmmmmmd:-ohmmmm
+                                            ´/yhsdmmdhs-.             :+++odddymmmmmmmmymmmmmmmmmmmNNNNNNmmdd//ydmNNN
+                                    ´       .smohysss:-/.          ´  ´++. ..-/ssyhdhdmymmmmmdmmNNNNmmmmmmmhd:oyhmNNN
+                 ´                           +hmmmddhs+/o+s:           -            ´ohsmmmmmmdmmmmmmmddhhddho::mmNNN
+                                           ´ymmmmmdy/.o+:sdd/                       +yddmmmmmmhyhmmmddmmNNdyhs:ommNNN
+                                          ´smhhdhho+/.:omNmmd:     ´                oyydhmmmmmdydmddhhddddddds:ommNNN
+       ´                                  /ymddddd+./-/:dNmdy-.                    ´ dmmdhhmmmmhdmNNNNmmmmmmmh/:dmNNN
+      ´.      ´                      ´  ´´sdmmmmmh/...:/mNmdy´                      ´mmmmmmddmmmmmmmmNmmmmmmmm: hmNNN
+              ´        ´               ´´.ydmmddho.´´.-/NNmds             ´  ´      ´mmmmmmmmdhdmmmNNmmmmmmmdo. :mNNN
+                                    ´ ´´ ´hmmdmdy/´´´.´-Nmmd+   ´                 ´  mmmmmmmmmmmmmmNNNmmmmmmd:  /NNNN
+                ´          .      ´´  ´  ´mmmmmmy.     -Nmmh:                        dmmmmmmmmymmmmmmmmmmmmmd´  .mmmm
+ ´ ´    ´´´´´´´       ´´             ´´  :Nmmmmo.      -Nmmh-                     ´  ymmmmmmmh:+hdmmmNmmmmddy    hmmN
+´´´      ´´  ´´´´´´´´ ´       ´  ´ ´´´  /mmmmhy-/      .mmdy´       ´                ommmmmmmddmmmmmmmmNmmdd/    /mmm
+ ´                   ´´´ ´    ´´´´´´   .hmmdy+.h+       oho´                         :mmdmmmmmmmmmmmmmmdddh+.    ´hdd
+                           ´´´´´       ommhh/sdd´                                    ´dmdmmmddmmmmmmmmmdmdhds     ´/y
+                          ´ ´´ ´    ´ -hmmy+dmdo                            ´         :dmmmhhmdmdddmmmmhmd:o.    ´ .h
+        ´                   ´        .mmNmsdmmmh                                       :ydhmmmdddmmmdhyhy:´ ´.     -m
+```
