@@ -6,5 +6,3 @@ Hello! I'm MTM8, a web developer that works professionally on the front-end and 
     <img height="160px" src="https://github-readme-stats.vercel.app/api?username=MTM8&count_private=true&show_icons=true" alt="MTM8's GitHub Stats"/>
     <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MTM8&count_private=true" alt="MTM8's Top Languages"/>
 </p>
-
-<p align="center">Activity summary by <a href="https://github.com/anuraghazra/github-readme-stats">GitHub Readme Stats</a>.</p>
